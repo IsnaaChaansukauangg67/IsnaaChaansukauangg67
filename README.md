@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **books and travelling**
 ##### Looking for 
 
-[![My Skills](https://skillicons.dev/icons?i=css,github,java,js,html,php,sqlite,git,vscode,laravel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,github,java,js,html,php,sqlite,git,vscode,laravel&theme=light)](https://skillicons.dev)
 
 
 ##### Reach me
